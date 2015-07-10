@@ -28,7 +28,7 @@ Mailapp::Application.configure do
     authentication: "plain" ,
     enable_starttls_auto: true,
     user_name: ENV["vengo.kevin27@gmail.com"],
-    password: ENV["purolo12"]
+    password: ENV["******"]
   
     }
 
